@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# LaTeX build products (keep committed PDFs and .bbl files)
+*.aux
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Temporary analysis output
+_analysis_figures/
+
+# External raw experimental data: do not redistribute
+Data_Repository/
+Data_Repository.zip
+raw_data/
+raw-data/
+external_data/
+external-data/
