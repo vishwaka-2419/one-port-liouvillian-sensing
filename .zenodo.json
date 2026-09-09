@@ -1,0 +1,32 @@
+{
+  "creators": [
+    {
+      "name": "Vishwakarma, Aishwarya",
+      "affiliation": "Department of Quantum Matter Physics, University of Geneva"
+    }
+  ],
+  "title": "Reproducibility package for One-port Liouvillian sensing: critical dynamics, measurement information, and collective-mode visibility",
+  "version": "1.0.0",
+  "access_right": "open",
+  "upload_type": "software",
+  "license": "mit",
+  "language": "eng",
+  "description": "Source code, derived experimental tables, deterministic numerical outputs, and figure-generation scripts for the study 'One-port Liouvillian sensing: critical dynamics, measurement information, and collective-mode visibility'. The original experimental raw data are referenced externally and are not redistributed.",
+  "keywords": [
+    "open quantum systems",
+    "Liouvillian spectrum",
+    "quantum sensing",
+    "exceptional points",
+    "ESR-STM",
+    "Floquet dynamics",
+    "counting statistics",
+    "spin networks"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.3929/ethz-b-000669567",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ]
+}
