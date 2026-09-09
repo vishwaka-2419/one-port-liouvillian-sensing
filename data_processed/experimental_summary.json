@@ -1,0 +1,10 @@
+{
+  "T1_ns": 138.23079055970553,
+  "T1_err_ns": 7.787982278107595,
+  "T1_chi2": 88.85666690518165,
+  "T1_dof": 78,
+  "T1_reduced_chi2": 1.1391880372459187,
+  "minimum_EP_ratio_median": 1.7990763219586965,
+  "minimum_EP_ratio_bias_mV": -260.0,
+  "all_p_underdamped_min": 1.0
+}

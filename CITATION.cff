@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived software record and the associated manuscript."
+title: "Reproducibility package for One-port Liouvillian sensing: critical dynamics, measurement information, and collective-mode visibility"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - given-names: Aishwarya
+    family-names: Vishwakarma
+    affiliation: "Department of Quantum Matter Physics, University of Geneva"
+abstract: >-
+  Source code, derived experimental tables, deterministic numerical outputs,
+  and figure-generation scripts for the study "One-port Liouvillian sensing:
+  critical dynamics, measurement information, and collective-mode visibility".
+  The original experimental raw data are referenced by DOI and are not redistributed.
+keywords:
+  - open quantum systems
+  - Liouvillian spectrum
+  - quantum sensing
+  - exceptional points
+  - ESR-STM
+  - Floquet dynamics
+  - counting statistics
+  - spin networks

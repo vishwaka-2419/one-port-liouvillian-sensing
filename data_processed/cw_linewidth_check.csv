@@ -1,0 +1,4 @@
+bias_mV,current_pA,U_RF_mV,cw_FWHM_MHz,source
+-250,50,40,96.06046465665969,SM/S17 repository fit curve
+-250,50,80,119.71174247233346,SM/S17 repository fit curve
+-260,13,240,70.62083224883068,homogeneous-equivalent width Gamma2/pi from Rabi inversion

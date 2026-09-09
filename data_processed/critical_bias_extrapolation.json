@@ -1,0 +1,7 @@
+{
+  "bias_p16_mV": -297.3447285037487,
+  "bias_median_mV": -286.3387838631138,
+  "bias_p84_mV": -278.24918078884036,
+  "method": "linear fit to -260,-240,-220,-200 mV with independent Gaussian approximation to propagated 68% intervals",
+  "note": "local extrapolation outside measured underdamped Rabi window"
+}
